@@ -1,0 +1,66 @@
+/*
+.strofa{
+	float: left;
+}
+*/
+#cadou{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 35em;
+    
+ }
+body {
+	
+  background: -webkit-linear-gradient(90deg, #2BC0E4 10%, #EAECC6 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #2BC0E4 10%, #EAECC6 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #2BC0E4 10%, #EAECC6 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, #2BC0E4 10%, #EAECC6 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, #2BC0E4 10%, #EAECC6 90%); /* W3C */
+}
+
+
+#header { 
+    
+  background: -webkit-linear-gradient(90deg, #2BC0E4 10%, #EAECC6 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #2BC0E4 10%, #EAECC6 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #2BC0E4 10%, #EAECC6 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, #2BC0E4 10%, #EAECC6 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, #2BC0E4 10%, #EAECC6 90%); /* W3C */
+
+		}
+ span { 
+     font-size:2em;
+     font-weight: 800;
+     color: #0045ff;
+		}
+
+#titlup {
+        text-align: center;
+        font-weight: 700;
+        color: rgb(230, 51, 230);
+        font-family: fantasy
+		}
+
+p{
+    font-style: italic;
+    font-family: cursive;
+    text-decoration: none;
+    text-underline:none;
+    
+    
+}
+
+a:hover{
+ text-decoration: unset;   
+}
+.jumbotron{
+  margin-top: 20px;
+}
+
+span { 
+     font-size:2em;
+     font-weight: 800;
+     color: #0045ff;
+    }
+
+
